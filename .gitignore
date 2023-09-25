@@ -1,3 +1,4 @@
 venv
 Clean_Dataset.csv.zip
 Clean_Dataset.csv
+.DS_Store
